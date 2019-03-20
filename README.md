@@ -1,6 +1,6 @@
 # About
 
-Web alert is a crawler to downloading site source and searching content changes
+Web alert is a crawler prepared to inform user about site content changes without keeping an eye on it all the time. 
 
 ## Installation
 
@@ -14,7 +14,7 @@ pip install beautifulsoup4
 Type a site addres and content name e.g class name, id name or raw string; accept a proper markup and start observe it
 
 ## Future
-In future I want to add various features to this app. Searching all possibilites and combinations typed text. Not rarely markup has a strange name. I'm planning to handle it.
+In future to add various features to this app. Searching all possibilites and combinations. Sometimes markups have a strange name and I'm going to handle it.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
